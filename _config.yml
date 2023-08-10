@@ -1,0 +1,29 @@
+# Setup
+title:              Sketchbook Drawings
+description:        Sketchbook Drawings inspired by Sol Lewitt's Wall Drawings, written in conjunction with GPT4.
+github_username:    PDillis
+
+# About/contact
+author:
+  name:             Diego Porres
+  url:              https://www.linkedin.com/in/diego-porres/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown:           kramdown
+theme:              jekyll-theme-cayman
+permalink:          pretty
+
+lsi: false
+safe: true
+source: https://github.com/PDillis/sketchbook
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
