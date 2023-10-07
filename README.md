@@ -42,7 +42,7 @@ The task is simple: instead of a wall, we now have only a small piece of paper o
 * *Sketchbook Drawing #8*: "Near a window or garden, close your eyes. For food aromas, draw vertical lines; for flowers, wavy lines. Nature sounds like bird chirps or wind inspire feather-like strokes. Man-made sounds, like vehicle hums, prompt tight circles. Your drawing captures the sensory essence of your surroundings."
 
 ## Contributions
-If you wish your sketch to be included in this gallery, please email ~~address~~ (coming soon). Make sure to include the following:
+If you wish your sketch to be included in this gallery, please email submitsketchbook@gmail.com. Make sure to include the following:
 * Make the title of the email be "Sketchbook Drawing #n", n being the *Drawing(s)* you'll be submitting (can be more than one per email)
 * Include a scan of the sketch with the highest resolution available (on mobile, you can use [Microsoft Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&pcampaignid=web_share) in lieu of a scanner)
 * Include your name and date when the sketch was made (if different from when the email is sent)
